@@ -1,0 +1,31 @@
+#wp_marktplaats {
+    margin-bottom: 15px;
+    float: left;
+}
+
+#wp_marktplaats .wp_advert {
+    border-bottom: 1px solid silver;
+    padding: 5px;
+}
+
+#wp_marktplaats .wp_advert:hover {
+    background: silver;
+}
+
+#wp_marktplaats .wp_advert .image {
+    float: left;
+    width: 50px;
+    margin-right: 5px;
+    height: 50px;
+    text-align: center;
+}
+
+#wp_marktplaats .wp_advert .title {
+    font-weight: bold;
+}
+
+#wp_marktplaats .wp_advert .price {
+    display: block;
+    clear: both;
+    text-align: right;
+}
